@@ -49,3 +49,23 @@ Interactive Power BI dashboard for e-commerce sales analysis in Qatar (2026). Th
 - Category performance
 
 ## 📁 Files Included
+
+
+## 🚀 How to Use
+1. Download `dashboard/ecommerce_dashboard.pbix`
+2. Open in Power BI Desktop (free)
+3. Explore interactive visuals using slicers
+4. Refresh data to update insights
+
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+
+## 🔗 Related Projects
+- [SQL Analysis Project](https://github.com/MutazBashir-collab/ecommerce-sql-analysis)
+- [Python Salary Analysis](https://github.com/MutazBashir-collab/data-analysis)
+
+## 📧 Contact
+**Mutaz Bashir** - Data Analyst
+- GitHub: [MutazBashir-collab](https://github.com/MutazBashir-collab)
+- Email: mo3tazbashir88@gmail.com
