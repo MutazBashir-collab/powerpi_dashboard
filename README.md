@@ -48,14 +48,6 @@ Interactive Power BI dashboard for e-commerce sales analysis in Qatar (2026). Th
 - Low stock monitoring
 - Category performance
 
-## 📁 Files Included
-
-
-## 🚀 How to Use
-1. Download `dashboard/ecommerce_dashboard.pbix`
-2. Open in Power BI Desktop (free)
-3. Explore interactive visuals using slicers
-4. Refresh data to update insights
 
 ## 📸 Dashboard Preview
 
